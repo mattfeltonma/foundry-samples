@@ -24,7 +24,7 @@ Azure AI Agent Service offers three deployment modes optimized for agent workloa
   - Private DNS Zones are created for you
   - Higher cost with this setup because you also pay for the usage of Azure Storage, Azure AI Search, and Cosmos DB resources
 
-### [15b-private-network-standard-agent-setup-byovnet/](./15b-private-network-standard-agent-setup/README.md)
+### [15b-private-network-standard-agent-setup-byovnet/](./15b-private-network-standard-agent-setup-byovnet/README.md)
 
 - Deploys a Network Secured Standard Agent environment:
   - Creates Azure AI Foundry resource and project
